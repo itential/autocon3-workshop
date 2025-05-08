@@ -105,7 +105,8 @@ level        = 'DEBUG'
 EOF
 ```
 
-Remember to replace _`PLACE-GATEWAY-MANAGER-HOST-HERE`_ with your actual Itential Platform endpoint. Despite the all-caps hint, this placeholder is surprisingly easy to overlook.
+> [!TIP]
+> Remember to replace _`PLACE-GATEWAY-MANAGER-HOST-HERE`_ with your actual Itential Platform endpoint. Despite the all-caps hint, this placeholder is surprisingly easy to overlook.
 
 ## Create certificates for Gateway Manager
 Now for everyone's favorite part: certificate creation.
