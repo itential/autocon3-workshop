@@ -16,8 +16,8 @@ git clone https://github.com/itential/autocon3-workshop \
    tar -zxvf iagctl-v5.0.1-darwin-<arch>.tar.gz
    ```
 
-   > [!NOTE]
-   > Replace arch with the right architecture for your setup
+> [!NOTE]
+> Replace arch with the right architecture for your setup
 
 2. Run the newly extracted executable:
    ```bash
@@ -53,8 +53,8 @@ git clone https://github.com/itential/autocon3-workshop \
    tar -zxvf iagctl-v5.0.1-linux-<arch>.tar.gz
    ```
 
-   > [!NOTE]
-   > Replace arch with the right architecture for your setup
+> [!NOTE]
+> Replace arch with the right architecture for your setup
 
 2. Run the newly extracted executable:
    ```bash
