@@ -1,0 +1,47 @@
+# Ignore everything inside any "data" folder
+**/data/*
+
+# Don't ignore .gitkeep files
+!**/data/.gitkeep
+
+# Terraform and OpenTofu
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+
+# Ansible
+*.retry
+ansible.cfg
+*.yml~
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.tox/
+*.coverage
+*.hypothesis/
+.coverage.*
+
+# VSCode
+.vscode/
+
+# Containerlab
+*.clab.yaml
+.containerlab/
+
+# General
+*.log
+*.bak
+*.swp
+*.swo
+*~
