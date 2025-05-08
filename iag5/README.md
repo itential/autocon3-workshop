@@ -12,17 +12,17 @@ git clone https://github.com/itential/autocon3-workshop \
 ### Mac installation
 
 1. Navigate to the downloaded tar file and extract the contents:
-   ```bash
-   tar -zxvf iagctl-v5.0.1-darwin-<arch>.tar.gz
-   ```
+```bash
+tar -zxvf iagctl-v5.0.1-darwin-<arch>.tar.gz
+```
 
 > [!NOTE]
 > Replace arch with the right architecture for your setup
 
 2. Run the newly extracted executable:
-   ```bash
-   ./iagctl
-   ```
+```bash
+./iagctl
+```
 
 3. macOS will show a security warning. Click _'Done'_ when the popup appears.
 
@@ -33,14 +33,14 @@ git clone https://github.com/itential/autocon3-workshop \
 6. Provide your password or fingerprint when prompted.
 
 7. Copy the file to your bin directory to add it to your path:
-   ```bash
-   mv ./iagctl /usr/local/bin/iagctl
-   ```
+```bash
+mv ./iagctl /usr/local/bin/iagctl
+```
 
 8. Open your terminal and run:
-   ```bash
-   iagctl
-   ```
+```bash
+iagctl
+```
 
 9. Click _'Open Anyway'_ in the popup. Just one more hurdle from Apple's security theater!
 
@@ -49,22 +49,22 @@ git clone https://github.com/itential/autocon3-workshop \
 ### Linux installation
 
 1. Navigate to the downloaded tar file and extract the contents:
-   ```bash
-   tar -zxvf iagctl-v5.0.1-linux-<arch>.tar.gz
-   ```
+```bash
+tar -zxvf iagctl-v5.0.1-linux-<arch>.tar.gz
+```
 
 > [!NOTE]
 > Replace arch with the right architecture for your setup
 
 2. Run the newly extracted executable:
-   ```bash
-   ./iagctl
-   ```
+```bash
+./iagctl
+```
 
 3. Copy the file to your bin directory to add it to your path:
-   ```bash
-   mv ./iagctl /usr/local/bin/iagctl
-   ```
+```bash
+mv ./iagctl /usr/local/bin/iagctl
+```
 
 4. You can now run Gateway anywhere by executing _'iagctl'_. Linux keeps it refreshingly simple 💡
 
