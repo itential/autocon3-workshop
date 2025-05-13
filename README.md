@@ -1,4 +1,4 @@
-## 🚀 API-Enable Your Network with Itential - _Workshop_
+## 🚀 API-Enable Your Network with Itential - _AutoCon3 Workshop_
 🔷 **Proctors**: Peter Sprygada, Mike Elrom, William Collins  
 🔷 **Level**: Beginner _(no knowledge required)_ .  
 🔷 **Description**: Learn how to use Itential’s products to execute network automations, integrate APIs from systems like Netbox and ServiceNow, and build orchestrated workflows to deliver services that make a real impact on how you operate and deliver your network infrastructure.
