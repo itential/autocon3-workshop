@@ -1,6 +1,6 @@
-## 🔧 IAG5 Setup Guide
+## 🔧 IAG Setup Guide
 
-In preparation for the workshop, let's install IAG5. This guide covers everything from extracting the binary to running your first service.
+In preparation for the workshop, let's install IAG. This guide covers everything from extracting the binary to running your first service.
 
 ## 🚨 Extract Binary / Place in Executable Path
 Begin by cloning the _workshop repository_:
@@ -69,11 +69,11 @@ mv ./iagctl /usr/local/bin/iagctl
 4. You can now run Gateway anywhere by executing _'iagctl'_. Linux keeps it refreshingly simple 💡
 
 ## 🧪 Let's run a test!
-To validate that _IAG5_ is installed and ready to roll, try:
+To validate that _IAG_ is installed and ready to roll, try:
 ```bash
 iagctl version
 ```
 
 > If successful, it'll return the version, executable location, and mode!
 
-Congratulations - you've successfully set up IAG5. Time to update your technical resume with that next **BIG** acronym.
+Congratulations - you've successfully set up IAG. Time to update your technical resume with that next **BIG** acronym.
