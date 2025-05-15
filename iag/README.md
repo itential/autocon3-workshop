@@ -13,7 +13,7 @@ git clone https://github.com/itential/autocon3-workshop \
 
 1. Navigate to the downloaded tar file and extract the contents:
 ```bash
-tar -zxvf iagctl-v5.0.1-darwin-<arch>.tar.gz
+tar -zxvf iagctl-5.1.0-darwin-<arch>.tar.gz
 ```
 
 > [!NOTE]
@@ -50,7 +50,7 @@ iagctl
 
 1. Navigate to the downloaded tar file and extract the contents:
 ```bash
-tar -zxvf iagctl-v5.0.1-linux-<arch>.tar.gz
+tar -zxvf iagctl-5.1.0-linux-<arch>.tar.gz
 ```
 
 > [!NOTE]
