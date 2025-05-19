@@ -6,7 +6,7 @@ In preparation for the workshop, let's install IAG. This guide covers everything
 Begin by cloning the _workshop repository_:
 ```bash
 git clone https://github.com/itential/autocon3-workshop \
-  && cd autocon3-workshop
+  && cd autocon3-workshop/iag
 ```
 
 ### Mac installation
